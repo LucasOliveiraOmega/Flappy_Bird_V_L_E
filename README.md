@@ -21,11 +21,10 @@ Flappy Bird Versão Lucas Edition fui feito em intuito para aprender essas três
 - **flappy-bird-devsoutinho** - [Criador](https://github.com/omariosouto/flappy-bird-devsoutinho).
 - **Playlist do YouTube do Dev Soutinho** - [Criador](https://youtube.com/playlist?list=PLTcmLKdIkOWmeNferJ292VYKBXydGeDej&si=d3g4Nwau8YYguWTx).
 
-<hr>
 <a id="ingles"></a>
-# Flappy Bird Version Lucas Edition
+## Flappy Bird Version Lucas Edition
 <p align="center">
-    <img src="https://github.com/user-attachments/assets/d419a275-7118-43ea-85f5-c32c4eeac8df" alt="manual de identidade">
+  <img src="https://github.com/user-attachments/assets/d419a275-7118-43ea-85f5-c32c4eeac8df" alt="manual de identidade">
 </p>
 
 ## What is about
