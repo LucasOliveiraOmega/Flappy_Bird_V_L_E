@@ -21,10 +21,9 @@ Flappy Bird Versão Lucas Edition fui feito em intuito para aprender essas três
 - **flappy-bird-devsoutinho** - [Criador](https://github.com/omariosouto/flappy-bird-devsoutinho).
 - **Playlist do YouTube do Dev Soutinho** - [Criador](https://youtube.com/playlist?list=PLTcmLKdIkOWmeNferJ292VYKBXydGeDej&si=d3g4Nwau8YYguWTx).
 
-<hr>![pngwing com](https://github.com/user-attachments/assets/16888e40-2144-4fd3-832e-9e2c4b2827f6)
-
+<hr>
 <a id="ingles"></a>
-# The Doom of Arquimedes
+# Flappy Bird Version Lucas Edition
 <p align="center">
     <img src="https://github.com/user-attachments/assets/d419a275-7118-43ea-85f5-c32c4eeac8df" alt="manual de identidade">
 </p>
