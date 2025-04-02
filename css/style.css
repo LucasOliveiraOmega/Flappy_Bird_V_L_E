@@ -14,11 +14,10 @@ canvas {
   border: 1px solid #fae8e8;
   display: block;
   margin: 0 auto;
-
   opacity: 1;
   background-color: #ffffff;
-  padding: 5px;
-  border-radius: 12px;
+  padding: 3px;
+  border-radius: 10px;
   box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
 } 
 
@@ -28,18 +27,17 @@ canvas {
   align-items: center;
   height: 100%;
   box-shadow: 5px 5px 10px rgba(0, 0, 0, .212);
-  width: 10%;
+  width: 100%;
 }
 
 canvas {
   width: 100%;
-  
   object-fit: contain;
   justify-content: center;
 }
 
 .form {
-  width: 27%;
+  width: 30%;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -54,159 +52,208 @@ canvas {
   position: fixed;
   justify-content: center;
   align-items: center;
+  height: auto;
   width: 100%;
   z-index: -1000;
 }
 
 
-@media (max-width: 480px) {
-  
+@media screen and (max-width: 1366px) and (orientation: landscape) {
   .container {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100%;
-    width: 10%;
+   height: 100%;
+   width: 100%;
+ }
+ 
+ canvas {
+   width: 100%;
   }
+ 
+ .form {
+   width: 28%;
+   }
+ 
+ .bg_video{
+   height: auto;
+   width: auto;
+ }
+}
 
+@media screen and (max-width: 1280px) and (orientation: landscape) {
+  .container {
+   height: 100%;
+   width: 100%;
+ }
+ 
+ canvas {
+   width: 100%;
+  }
+ 
+ .form {
+   width: 30%;
+   }
+ 
+ .bg_video{
+   height: auto;
+   width: auto;
+ }
+}
+
+@media screen and (max-width: 900px) and (orientation: landscape) {
+  .container {
+   height: 100%;
+   width: 100%;
+ }
+ 
+ canvas {
+   width: 100%;
+  }
+ 
+ .form {
+   width: 48%;
+   }
+ 
+ .bg_video{
+   height: auto;
+   width: auto;
+ }
+}
+
+@media screen and (max-width: 900px) and (orientation: portrait) {
+ .container {
+   height: 100%;
+   width: 100%;
+ }
+ 
+ canvas {
+   width: 100%;
+  }
+ 
+ .form {
+   width: 67%;
+   }
+ 
+ .bg_video{
+   height: auto;
+   width: auto;
+ }
+}
+
+@media screen and (max-width: 768px) and (orientation: landscape) {
+  .container {
+   height: 100%;
+   width: 100%;
+ }
+ 
+ canvas {
+   width: 100%;
+  }
+ 
+ .form {
+   width: 45%;
+   }
+ 
+ .bg_video{
+   height: auto;
+   width: auto;
+ }
+}
+
+@media screen and (max-width: 768px) and (orientation: portrait) {
+ .container {
+   height: 100%;
+   width: 100%;
+ }
+ 
+ canvas {
+   width: 100%;
+  }
+ 
+ .form {
+   width: 73%;
+   }
+ 
+ .bg_video{
+   height: auto;
+   width: auto;
+ }
+}
+
+@media screen and (max-width: 600px) and (orientation: landscape) {
+  .container {
+   height: 100%;
+   width: 100%;
+ }
+ 
+ canvas {
+   width: 100%;
+  }
+ 
+ .form {
+   width: 45%;
+   }
+ 
+ .bg_video{
+   height: auto;
+   width: auto;
+ }
+}
+
+@media screen and (max-width: 600px) and (orientation: portrait) {
+ .container {
+   height: 100%;
+   width: 100%;
+ }
+ 
+ canvas {
+   width: 100%;
+  }
+ 
+ .form {
+   width: 70%;
+   }
+ 
+ .bg_video{
+   height: auto;
+   width: auto;
+ }
+}
+
+@media screen and (max-width: 480px) and (orientation: landscape) {
+   .container {
+    height: 100%;
+    width: 100%;
+  }
+  
   canvas {
     width: 100%;
-    object-fit: contain;
-    justify-content: center;
-  }
+   }
   
   .form {
-    width: 80%;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    position: absolute;
-  }
+    width: 38%;
+    }
   
   .bg_video{
-    position: absolute;
-    right: 0;
-    bottom: 0;
-    display: flex;
-    position: fixed;
-    justify-content: center;
-    align-items: center;
-    width: auto;
     height: auto;
-    z-index: -1000;
+    width: auto;
   }
 }
 
-@media (max-width: 768px) {
-
+@media screen and (max-width: 480px) and (orientation: portrait) {
   .container {
-    display: flex;
-    justify-content: center;
-    align-items: center;
     height: 100%;
-    width: 10%;
+    width: 100%;
   }
-
+  
   canvas {
     width: 100%;
-    object-fit: contain;
-    justify-content: center;
-  }
+   }
   
   .form {
-    width: 80%;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    position: absolute;
-  }
+    width: 85%;
+    }
   
   .bg_video{
-    position: absolute;
-    right: 0;
-    bottom: 0;
-    display: flex;
-    position: fixed;
-    justify-content: center;
-    align-items: center;
-    width: auto;
     height: auto;
-    z-index: -1000;
-  }
-}
-
-@media (max-width: 1064px) {
-
-  .container {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100%;
-    width: 10%;
-  }
-
-  canvas {
-    width: 100%;
-    object-fit: contain;
-    justify-content: center;
-  }
-  
-  .form {
-    width: 80%;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    position: absolute;
-  }
-  
-  .bg_video{
-    position: absolute;
-    right: 0;
-    bottom: 0;
-    display: flex;
-    position: fixed;
-    justify-content: center;
-    align-items: center;
     width: auto;
-    height: auto;
-    z-index: -1000;
-  }
-}
-
-@media (max-width: 1366px) {
-
-  .container {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100%;
-    width: 10%;
-  }
-
-  canvas {
-    width: 100%;
-    object-fit: contain;
-    justify-content: center;
-  }
-  
-  .form {
-    width: 70%;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    position: absolute;
-  }
-  
-  .bg_video{
-    position: absolute;
-    right: 0;
-    bottom: 0;
-    display: flex;
-    position: fixed;
-    justify-content: center;
-    align-items: center;
-    width: auto;
-    height: 100%;
-    z-index: -1000;
   }
 }
