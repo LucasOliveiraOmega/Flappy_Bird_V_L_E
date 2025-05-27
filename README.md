@@ -9,7 +9,7 @@
 </p>
 
 ## Sobre
-Flappy Bird Versão Lucas Edition fui feito em intuito para aprender essas três tecnologias: HTML, JAVASCRIPT, CSS. Fui feito com base desse projeto flappy-bird-devsoutinho.
+Flappy Bird V_L_E fui feito em intuito para aprender essas três tecnologias: HTML, JAVASCRIPT, CSS. Fui feito com base desse projeto flappy-bird-devsoutinho.
 
 ## Tecnologias Utilizadas
 - **HTML**: Uma linguagem de marcação usada para construir sites.
@@ -29,7 +29,7 @@ Flappy Bird Versão Lucas Edition fui feito em intuito para aprender essas três
 
 ## What is about
 
-Flappy Bird Lucas Edition was made to learn these three technologies: HTML, JAVASCRIPT, CSS. I made it based on this project flappy-bird-devsoutinho.
+Flappy Bird V_L_E was made to learn these three technologies: HTML, JAVASCRIPT, CSS. I made it based on this project flappy-bird-devsoutinho.
 
 ## Tecnologies Used
 
