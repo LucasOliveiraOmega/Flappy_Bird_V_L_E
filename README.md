@@ -3,7 +3,7 @@
 - [English](#ingles)
 
 <a id="portugues"></a>
-## Flappy Bird Version Lucas Edition
+## Flappy Bird V_L_E
 <p align="center">
   <img src="https://github.com/user-attachments/assets/d419a275-7118-43ea-85f5-c32c4eeac8df" alt="manual de identidade">
 </p>
